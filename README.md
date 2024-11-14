@@ -7,4 +7,4 @@
 - [x] Exercici 2
 - [x] Exercici 3
 - [ ] Exercici 4
-- [ ] Exercici 6
+- [x] Exercici 6
